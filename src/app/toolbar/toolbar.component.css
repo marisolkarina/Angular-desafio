@@ -1,0 +1,4 @@
+nav {
+    background-color: rgb(195, 125, 236);
+    height: var(--toolbar-height);
+}

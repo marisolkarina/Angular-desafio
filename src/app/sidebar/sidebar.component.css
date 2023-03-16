@@ -1,0 +1,12 @@
+aside {
+    background-color: rgb(242, 200, 251);
+    height: calc(100vh - var(--toolbar-height));
+    padding-left: 1rem;
+    font-weight: 200;
+    /* position: fixed; */
+}
+
+aside p {
+    padding-top: 1rem;
+    font-weight: 400;
+}

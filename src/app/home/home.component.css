@@ -1,0 +1,14 @@
+.productos {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+
+.productos .card {
+    width: 20%;
+    
+}
+
+.btn-lila {
+    background-color: rgb(242, 200, 251);
+}

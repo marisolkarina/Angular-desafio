@@ -1,0 +1,7 @@
+.sideHome {
+    display: flex;
+}
+
+app-sidebar {
+    width: 40%;
+}
